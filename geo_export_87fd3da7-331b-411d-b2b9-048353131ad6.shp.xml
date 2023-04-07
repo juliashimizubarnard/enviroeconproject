@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230407</CreaDate><CreaTime>13405400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20230407" Time="134054">CalculateField geo_export_87fd3da7-331b-411d-b2b9-048353131ad6 BOROUGH replace_value(!district!) PYTHON_9.3 "def replace_value(field_value):
+  if (field_value).startswith("SI"):
+     return "Staten Island"
+
+  if(field_value).startswith("BX"):
+    return "Bronx"
+
+  if(field_value).startswith("MN"):
+    return "Manhattan"
+
+  if(field_value).startswith("BK"):
+    return "Brooklyn"
+
+  if(field_value).startswith("Q"):
+    return "Queens"
+
+  else:
+    return "NA""</Process></lineage></DataProperties></Esri></metadata>

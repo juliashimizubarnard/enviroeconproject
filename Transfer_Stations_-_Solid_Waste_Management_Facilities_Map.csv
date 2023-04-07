@@ -1,0 +1,58 @@
+Facility Name,Location Address,Location Address2,City,State,Zip Code,County,Region,Phone Number,Owner Name,Owner Type,Activity Desc,Activity Number,Active,East Coordinate,North Coordinate,Accuracy Code,Waste Types,Authorization Number,Authorization Issue Date,Expiration Date,Georeference,Bor
+Action Environmental Systems Inc Bronx TS,920 East 132 Street,,Bronx,NY,10454,Bronx,2,9732867100,Action Carting Environmental Services LLC,Private,Transfer station - permit,[03T32],Yes,591866,4516966,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Single Stream;Commingled Paper & Containers;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics,2-6007-00015/00030,6/30/2017,4/22/2020,,Bronx
+DSNY South Bronx Household Special Waste Drop-Off Site,Foot of Farragut Street,,Bronx,NY,10474,Bronx,2,2124374657,NYC Dep of Sanitation,Municipal,Transfer station - registration,[03RA2],Yes,595045,4517457,,,03RA2,,,,Bronx
+Metropolitan Transfer Station,287 Halleck Street,,Bronx,NY,10474,Bronx,2,7185897733,Waste Connections,Private,Transfer station - permit,[03T36],Yes,594488,4517915,,MSW (Residential/Institutional & Commercial);Compost;Metals (Ferrous & Non-Ferrous),2-6007-00007/00004,7/17/2020,8/10/2020,"287 Halleck Street
+Bronx, NY 10474
+(40.806731, -73.879659)",Bronx
+Tri-State Transfer Associates Inc (Asbestos),1199 Randall Ave,,Bronx,NY,10474,Bronx,2,7186170771,Jaime Byrne Baranoff,Private,Transfer station - permit,[03T34],Yes,593559,4518435,,Asbestos (Friable);Asbestos (Non-Friable);Construction & Demolition Debris,2-6007-00006/00006,3/29/2017,3/28/2022,"1199 Randall Ave
+Bronx, NY 10474
+(40.811514, -73.890936)",Bronx
+WMNY LLC Harlem River Yard,98 Lincoln Avenue,,Bronx,NY,10454,Bronx,2,,Waste Management of NY; LLC,Private,Transfer station - permit,[03T79],Yes,590254,4517776,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,2-6007-00159/00009,7/29/2014,7/30/2019,"98 Lincoln Avenue
+Bronx, NY 10454
+(40.807642, -73.929614)",Bronx
+Action Environmental Services - Stanley Ave,941 Stanley Ave.,,Brooklyn,NY,11208,Kings,2,7186652367,Action Environmental Systems LLC,Private,Transfer station - permit,[24TB7],Yes,595095,4501980,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,2-6105-00227/00003,2/8/2016,2/7/2021,"941 Stanley Ave.
+Brooklyn, NY 11208
+(40.663562, -73.874117)",Brooklyn
+Cogent Transfer; LLC,105-115 THAMES Street,,Brooklyn,NY,11237,Kings,2,7184561307,,,Transfer station - permit,[24T40],Yes,590503,4506611,,MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous),2-6104-00096/00002,6/3/2020,4/28/2021,"105-115 THAMES Street
+Brooklyn, NY 11237
+(40.705411, -73.928672)",Brooklyn
+Hi-Tech Resource Recovery Inc,130 Varick Avenue,,Brooklyn,NY,11237,Kings,2,7183865750,Hi-Tech Resource Recovery Inc.,Private,Transfer station - permit,[24T73],Yes,590541,4507211,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Wood (Brush/ Branches/ Trees/ Stumps),2-6104-00012/00004,7/9/2019,5/4/2021,"130 Varick Avenue
+Brooklyn, NY 11237
+(40.710731, -73.928359)",Brooklyn
+NYCDOS MTS @ HAMILTON AVE.,500 HAMILTON Avenue,,Brooklyn,NY,11232,Kings,2,2128378030,New York City Department of Sanitation,,Transfer station - permit,[24T11],Yes,584802,4502388,,,2-6102-00010/00013,10/13/2015,11/15/2018,"500 HAMILTON Avenue
+Brooklyn, NY 11232
+(40.669369, -73.997285)",Brooklyn
+NYCDOS SOUTHWEST BROOKLYN MTS,400 Bay 41st Street,,Brooklyn,NY,11214,Kings,2,2128378030,NYCDOS,Municipal,Transfer station - permit,[24T03],Yes,584853,4493769,,MSW (Residential/Institutional & Commercial),2-6106-00002/00001,7/31/2017,7/31/2022,"400 Bay 41st Street
+Brooklyn, NY 11214
+(40.589743, -73.995055)",Brooklyn
+Waste Connections (IESI 577 Court St) Brooklyn,563-577 Court Street,,Brooklyn,NY,11231,Kings,2,7182375596,Waste Connections of New York; Inc.,Private,Transfer station - permit,[24TA1],Yes,584477,4502913,,MSW (Residential/Institutional & Commercial);Food Scraps,2-6102-0074/00006,11/8/2017,11/2/2022,"563-577 Court Street
+Brooklyn, NY 11231
+(40.673069, -74.000351)",Brooklyn
+WMNY Varick 1 Transfer Station,215 Varick Avenue,,Brooklyn,NY,11237,Kings,2,7185335266,Waste Management of NY; LLC,Private,Transfer station - permit,[24T66],Yes,590448,4507405,4.2 - Utilization of GIS and existing spatial data,Yard Waste;MSW (Residential/Institutional & Commercial),2-6104-00010/00002,10/30/2018,10/21/2019,"215 Varick Avenue
+Brooklyn, NY 11237
+(40.713076, -73.92942)",Brooklyn
+WMNY BQE Transfer Station,75 Thomas Street,,Brookyn,NY,11222,Kings,2,7185335398,Waste Management of NY,Private,Transfer station - permit,[24T04],Yes,590286,4508968,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Wood (Brush/ Branches/ Trees/ Stumps);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);White Goods;Waste Tires,2-6101-00026/00001,8/13/2021,8/12/2026,"75 Thomas Street
+Brookyn, NY 11222
+(40.726483, -73.930853)",Brookyn
+DSNY Pike Slip Household Special Waste Dropoff Facility,74 Pike Slip,,New York,NY,10002,New York,2,2124374657,NYC Dept of Sanitation,Municipal,Transfer station - registration,[31R24],Yes,585132,4507140,1 - No accuracy stated,Waste Oil (Other);Waste Tires,31R24,11/18/2015,,"74 Pike Slip
+New York, NY 10002
+(40.710671, -73.992132)",Manhattan
+NYCDOS EAST 91ST ST. MTS,E 91ST STREET  (91ST ST. & EAST RIVER),,New York,NY,10128,New York,2,2128378030,,,Transfer station - permit,[31T02],Yes,589048,4514780,,,2-6204-00007/00013,11/6/2015,11/5/2025,,Manhattan
+DSNY North Shore Household Special Waste Drop-Off Facility,120-15 31st Avenue,,College Point,NY,11354,Queens,2,2124374668,NYC Dept of Sanitation,Municipal,Transfer station - registration,[41RC0],Yes,597262,4513987,1 - No accuracy stated,Waste Oil (Other);Waste Tires,41RC0,2/21/2017,,"120-15 31st Avenue
+College Point, NY 11354
+(40.769941, -73.84799)",Queens
+NYCDOS-NORTH SHORE MTS,31 AVE & FLUSHING BAY,,College Point,NY,11354,Queens,2,2128378030,NYC Department of Sanitation,Municipal,Transfer station - permit,[41T01],Yes,597307,4513857,,MSW (Residential/Institutional & Commercial),2-6302-00007/00019,6/21/2017,6/22/2022,,Queens
+Jamaica Recycling (Liberty),94-29 165th Street,,Jamaica,NY,11433,Queens,2,7187397224,Michael Bellino,Private,Transfer station - permit,[41T30],Yes,602024,4506425,,Petroleum Contaminated Soil;MSW (Residential/Institutional & Commercial);Industrial,2-6307-00126/00005,5/14/2015,5/13/2020,"94-29 165th Street
+Jamaica, NY 11433
+(40.703195, -73.79313)",Queens
+Regal Recycling Inc,172-06 Douglas Avenue,,Jamaica,NY,11433,Queens,2,7185239330,Regal Recycling Company Inc,Private,Transfer station - permit,[41T49],Yes,602520,4506685,,MSW (Residential/Institutional & Commercial);Food Scraps;Yard Waste;Corrugated Cardboard,,6/3/2021,5/19/2025,"172-06 Douglas Avenue
+Jamaica, NY 11433
+(40.704998, -73.78525)",Queens
+WMNY Review Transfer Station,38-22 Review Avenue,,Long Island City,NY,11101,Queens,2,7187520323,Waste Management of NY; LLC,Private,Transfer station - permit,[41T23],Yes,589812,4509615,,MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous),2-6304-00029/00001,11/3/2017,11/2/2022,"38-22 Review Avenue
+Long Island City, NY 11101
+(40.732127, -73.93577)",Queens
+New Style Recycling Corp,49-10 Grand Avenue,,Maspeth,NY,11378,Queens,2,7183264175,Antoinette Cristina,Private,Transfer station - permit,[41CD0053],Yes,591300,4507948,,MSW (Residential/Institutional & Commercial),2-6304-00021/00003,3/10/2017,3/9/2022,"49-10 Grand Avenue
+Maspeth, NY 11378
+(40.717512, -73.918967)",Queens
+DSNY Muldoon Ave Household Special Waste Drop-Off Facility,Muldoon Aveneu,,Staten Island,NY,10312,Richmond,2,7183177885,NYC Dept of Sanitation,Municipal,Transfer station - registration,[43M49],Yes,568159,4491310,,Waste Tires;Waste Oil (Other),43M49,11/18/2016,,,Staten Island
+NYCDOS Staten Island Transfer Station,600 West Service Road,,Staten Island,NY,10314,Richmond,2,7189671400,NYCDOS,Municipal,Transfer station - permit,[43T33],Yes,568278,4493082,,MSW (Residential/Institutional & Commercial),2-6403-00141/00001,11/6/2017,11/2/2022,,Staten Island
